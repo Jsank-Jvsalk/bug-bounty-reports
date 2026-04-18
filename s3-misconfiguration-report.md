@@ -73,3 +73,8 @@ Reason:
 This vulnerability highlights how simple misconfigurations in cloud storage can lead to severe data exposure. Proper access control and regular audits are essential to prevent such issues.
 
 ---
+Note: 
+## 🔧 Tools Used
+- Web browser
+- Manual testing
+- Basic reconnaissance techniques
