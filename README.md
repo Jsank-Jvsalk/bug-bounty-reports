@@ -1,2 +1,8 @@
-# bug-bounty-reports
-This contains all the Bug i have found while doing bug bounty
+# Bug Bounty Reports
+
+This repository contains documented security findings and vulnerability reports from hands-on cybersecurity practice and research.
+
+Topics include:
+- Cloud misconfigurations
+- Web vulnerabilities
+- Security analysis and impact assessment
